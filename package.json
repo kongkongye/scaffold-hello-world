@@ -1,11 +1,8 @@
 {
-  "name": "scaffold-hello-world",
+  "name": "scaffold-hello-world1",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-  },
-  "devDependencies": {
-  },
-  "dependencies": {
+    "say": "echo 'hello world1'"
   }
 }
