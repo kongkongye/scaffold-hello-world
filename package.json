@@ -23,6 +23,6 @@
     "download-git-repo": "^3.0.2",
     "handlebars": "^4.7.7",
     "inquirer": "^8.2.4",
-    "ora": "5.4.1"
+    "ora": "^6.1.0"
   }
 }
