@@ -2,10 +2,21 @@
   "name": "scaffold-hello-world",
   "version": "1.0.0",
   "license": "MIT",
+  "bin": {
+    "hw": "dist/index.js"
+  },
   "scripts": {
+    "build": "tsc"
   },
   "devDependencies": {
+    "@types/inquirer": "^8.2.1",
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.3"
   },
   "dependencies": {
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.4"
   }
 }
