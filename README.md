@@ -1,6 +1,11 @@
 ## 介绍
 这是一个用来测试的脚手架。
 
+## 使用
+1. 下载，安装依赖
+2. yarn build
+3. hw init
+
 ## 使用的库
 1. commander: 命令行
 2. inquirer: 交互式输入
