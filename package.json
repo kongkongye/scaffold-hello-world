@@ -1,8 +1,27 @@
 {
   "name": "scaffold-hello-world",
-  "version": "1.0.0",
+  "description": "A simple hello world scaffold",
+  "version": "1.0.1",
   "license": "MIT",
   "type": "module",
+  "keywords": [
+    "scaffold",
+    "hello",
+    "world"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": {
+    "name": "kongkongye",
+    "email": "kongkongye002@gmail.com",
+    "url": "https://github.com/kongkongye"
+  },
+  "homepage": "https://github.com/kongkongye/scaffold-hello-world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kongkongye/scaffold-hello-world.git"
+  },
   "engines": {
     "node": ">=14.16"
   },
